@@ -63,6 +63,7 @@ To address this limitation, logarithmic transformation and generalized linear mo
 - Data transformations: Applying other transformations to the dependent or independent variables, such as square root or inverse transformations, might help stabilize variance and make the residuals more symmetric and closer to normal.
 - Nonlinear models: Investigating alternative modeling approaches, such as polynomial regression, generalized additive models (GAMs), or adding interactive terms between predictors, may better capture the relationship between the independent and dependent variables.
 - Generalized linear models (GLMs): If the dependent variable's distribution is better represented by a non-normal family of distributions, a generalized linear model (GLM) with a suitable link function and error distribution could provide more accurate and reliable results.
+    
 Furthermore, future studies could expand the scope of the analysis by incorporating additional variables related to geopolitical, economic, and cultural factors and examining the potential mediating or moderating effects of these variables on the relationships between UN voting affinity, cultural proximity, and international trade.
 
 ### Conclusion
